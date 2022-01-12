@@ -1,8 +1,8 @@
-### Oieee! Sou Lucas Prussak
+### Hi! I'm Lucas Prussak
 
-- 💻 Atualmente no 2° ano de técnico em Desenvolvimento de Sistemas
-- 🌱 Aprendendo HTML, CSS e JS
-
+- 💻 i'm currently in third year on certificate in systems development
+- 🌱 I'm currently learning C#
+- 😄 We could help eachother practicing and studing english
 <div>
   <a href="https://github.com/LucasPrussak">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPrussak&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
