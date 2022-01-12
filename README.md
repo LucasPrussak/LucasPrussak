@@ -3,7 +3,8 @@
 - 💻 I'm currently in third year on certificate in systems development
 - 🌱 I'm currently learning C#
 - 😄 We could help eachother practicing and studing english
-- ⚡ Fun fact: I like boxing 🥊 and singing 🎵
+- ⚡ Fun fact: I like boxing 🥊 and singin 🎵
+- 🎮 I love game desing, 3D modeling, Disney animatons
 <div>
   <a href="https://github.com/LucasPrussak">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPrussak&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
