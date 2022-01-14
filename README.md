@@ -1,14 +1,14 @@
 ### Hi! I'm Lucas Prussak
 
-- 💻 I'm currently in third year on certificate in systems development
+- 💻 I'm currently in third year on Systems Development Technician integrated to High School at <a href="https://www.etecfernandoprestes.com.br/"> Etec Fernando Prestes <a> (2020 - 2022)
 - 🌱 I'm currently learning C#
 - 😄 We could help eachother practicing and studing english
 - ⚡ Fun fact: I like boxing 🥊 and singin 🎵
-- 🎮 I love game desing, 3D modeling, Disney animatons
+- 🎮 I love game desing and 3D modeling
 <div>
   <a href="https://github.com/LucasPrussak">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPrussak&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPrussak&layout=compact&langs_count=7&theme=github_dark"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPrussak&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPrussak&layout=compact&langs_count=7&theme=maroongold"/> -->
 </div>
 <!--
 
