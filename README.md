@@ -1,10 +1,10 @@
 ### Hi! I'm Lucas Prussak
 
 - 💻 I'm currently in third year on Systems Development Technician integrated to High School at <a href="https://www.etecfernandoprestes.com.br/"> Etec Fernando Prestes <a> (2020 - 2022)
-- 🌱 I'm currently learning C#
+- 🌱 I'm currently learning HTML, CSS and Javascript
 - 😄 We could help eachother practicing and studing english
-- ⚡ Fun fact: I like boxing 🥊 and singin 🎵
-- 🎮 I love game desing and 3D modeling
+- ⚡ I like to workout 🏋️‍♂️
+- 🧠 I love neuroscience 🎈
 <div>
   <a href="https://github.com/LucasPrussak">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPrussak&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
