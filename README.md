@@ -1,7 +1,7 @@
 ### Hi! I'm Lucas Prussak
 
 - 💻 I'm currently in third year on Systems Development Technician integrated to High School at <a href="https://www.etecfernandoprestes.com.br/"> Etec Fernando Prestes <a> (2020 - 2022)
-- 🌱 I'm currently learning HTML, CSS and Javascript
+- 🌱 I'm currently learning HTML, CSS and JS
 - 😄 We could help eachother practicing and studing english
 - ⚡ I like to workout 🏋️‍♂️
 - 🧠 I love neuroscience 🎈
